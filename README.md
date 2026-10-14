@@ -1,1 +1,1 @@
-Bank churn
+Bank churn prediction
